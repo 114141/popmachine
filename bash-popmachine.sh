@@ -21,7 +21,8 @@
 
 
 //Below method is used calculate the userÕs change. 
-// When no changed is owed, the programs will read out a message. // Constants from above are used and the it can be changed //accordingly.
+// When no changed is owed, the programs will read out a message. 
+// Constants from above are used and the it can be changed accordingly.
 
 void
 REFUND(int inputted){
